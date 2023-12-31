@@ -1,3 +1,8 @@
+// Java
+// Visual Studio Code
+// Text-based Game
+// standard and help mode
+
 import java.util.concurrent.TimeUnit;
 import java.util.Scanner;
 
