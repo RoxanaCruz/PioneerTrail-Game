@@ -1,7 +1,5 @@
-// Java
-// Visual Studio Code
-// Text-based Game
-// standard and help mode
+// Roxana Cruz ; Java Text-based Game
+// standard and help mode implemented
 
 import java.util.concurrent.TimeUnit;
 import java.util.Scanner;
